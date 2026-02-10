@@ -1,16 +1,10 @@
-# pet_shop_app
+# Pet Sjop App
+Pet Shop Application: Utilize multiple Flutter widgets and layouts to design a visually appealing and user-friendly Pet Shop application. The app should allow users to browse various pet categories, view pet details, and explore products and services related to pets. The overall design and functionality should align with the example output provided and concepts taught during the practical sessions.
 
-A new Flutter project.
+Key Components and Features:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Pet categories (Dogs, Cats, Birds, Accessories, etc.)
+    Pet/product listings with images and brief descriptions 
+    Detailed pet/product preview screens
+    Add-to-cart or inquiry option
+    Responsive and interactive UI design
